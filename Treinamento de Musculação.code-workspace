@@ -2,6 +2,10 @@
     "folders": [
         {
             "path": "."
+        },
+        {
+            "name": "Plataforma-de-Treino",
+            "path": "../../../../Nova pasta/Plataforma-de-Treino"
         }
     ],
     "launch": {
